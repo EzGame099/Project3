@@ -70,6 +70,7 @@
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     Coba-coba
                                     Kami kelompok 8
+                                    Testing
                                 </div>
                             </div>
                         </div>
